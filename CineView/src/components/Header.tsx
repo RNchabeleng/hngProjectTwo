@@ -1,5 +1,5 @@
 import React from 'react';
-//import Searchbar from '../../components/Searchbar/Searchbar';
+import Searchbar from '.././components/Searchbar';
 import logowhite from '../assets/LogoWhite.svg';
 import navigation from '../assets/Navigation.svg';
 import { useSpring, animated } from 'react-spring';

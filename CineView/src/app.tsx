@@ -1,8 +1,8 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
-import Home from './pages/Home/Home';
-import Feature from './pages/Feature/Feature';
-import Movie from './pages/Movie/Movie';
+import Home from '../src/components/pages/Home';
+import Feature from '../src/components/pages/Feauture';
+import Movie from '../src/components/pages/Movie';
 import ErrorMessage from './components/ErrorMessage';
 
 function App(): JSX.Element {

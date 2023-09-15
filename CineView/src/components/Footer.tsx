@@ -1,8 +1,8 @@
 import React from 'react';
-import facebook from '../../assets/facebook.svg';
-import insta from '../../assets/insta.svg';
-import twitter from '../../assets/twitter.svg';
-import youtube from '../../assets/youtube.svg';
+import facebook from '../assets/facebook.svg';
+import insta from '../assets/insta.svg';
+import twitter from '../assets/Twitter.svg';
+import youtube from '../assets/YouTube.svg';
 
 const Footer: React.FC = () => {
   return (
